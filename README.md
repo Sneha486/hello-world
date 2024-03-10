@@ -1,2 +1,2 @@
-# hello-world
+# my name is Sneha Kawade
 First Repository
